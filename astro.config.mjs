@@ -7,7 +7,7 @@ export default defineConfig({
   base: "/webdev",
   integrations: [
     starlight({
-      title: "My Docs",
+      title: "Web development",
       social: {
         github: "https://github.com/withastro/starlight",
       },
