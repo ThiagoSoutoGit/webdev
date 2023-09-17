@@ -12,13 +12,6 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Programming Languages",
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "TypeScript", link: "/code/typescript/" },
-          ],
-        },
-        {
           label: "NestJS",
           items: [
             // Each item here is one entry in the navigation menu.
